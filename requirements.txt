@@ -1,0 +1,14 @@
+# PDF解析
+pypdf==4.0.1
+pdfplumber==0.10.4
+PyMuPDF==1.23.26
+
+# 数据处理
+pandas==2.2.1
+openpyxl==3.1.2
+
+# 辅助工具
+python-dateutil==2.9.0
+
+# LLM集成（用于智谱GLM-4 API）
+openai>=1.0.0
